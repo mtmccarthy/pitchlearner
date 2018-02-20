@@ -5,7 +5,7 @@ An application to help people learn to hear notes by their pitch
 
 ### Clone && Install Requirements
 ```git clone https://github.com/mtmccarthy/pitchlearner.git```
-Ensure requirements in requiremnts.txt are installed
+
 ```pip install -r requirements.txt```
 
 ### Run Application
