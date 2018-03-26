@@ -4,12 +4,12 @@ An application to help people learn to hear notes by their pitch
 ## How to Use this Application
 
 ### Clone && Install Requirements
-```git clone https://github.com/mtmccarthy/pitchlearner.git```
+```git clone https://github.com/mtmccarthy/pitchlearner.git && cd pitchlearner```
 
-```pip install -r requirements.txt```
+```pip3 install -r requirements.txt```
 
 ### Run Application
-```python pitchlearner/src/pitchlearner.py <quiz_length> <num_answers>```
+```python3 -m src/.pitchlearner <quiz_length> <num_answers>```
 
 This application takes two arguments, both integers. The first is interpreted as the length of the quiz the user wishes to complete. The second argument is interpreted as the number of answers to prompt the user with.
 
